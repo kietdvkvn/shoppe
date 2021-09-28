@@ -1,0 +1,297 @@
+#header {
+    background-color: orange;
+    height: 150px;
+}
+
+#footer {
+    background-color: palegreen;
+    height: 150px;
+    float: left;
+}
+
+.danhmuc {
+    display: inline-block;
+    width: 128px;
+    margin-right: 152px;
+}
+
+h1 {
+    color: red;
+}
+
+body {
+    margin-top: 0%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.right {
+    float: right;
+    margin-right: 30px;
+}
+
+.container {
+    width: 100%;
+    height: 1200px;
+    background-color: gray;
+    display: flex;
+}
+
+
+img {
+    float: left;
+    width: 10%;
+}
+
+.search {
+    float: left;
+    width: 75%;
+    margin: 10px;
+}
+
+.order {
+    float: left;
+    width: 10%;
+    margin-top: 15px;
+    font-size: 40px;
+
+}
+
+input{
+    width: 100%;
+    height: 30px ;
+    padding: 10px;
+    width: 80%;
+}
+
+.menusearch {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+button {
+    width: 15%;
+    padding: 17px;
+  }
+
+.menus {
+    display: block;
+}
+
+#products {
+    width: 85%;
+    background-color: indianred;
+    height: 100%;
+    display: inline-block;
+}
+
+.products-item {
+    width: 15%;
+    height: 280px;
+    background-color: lightblue;
+    float: left;
+    margin: 10px;
+    color: black;
+    text-align: center;
+}
+
+.products-item img {
+    width: 100%;
+    height: 70%;
+}
+
+p, h4 {
+    margin: 0px;
+    padding-top: 15px;
+}
+
+p {
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.filters {
+    float: left;
+    width: 15%;
+    background-color: green;
+    height: 100%;
+    
+}
+
+.checkbox {
+    padding-bottom: 30px;
+    border-bottom: 2px solid rgba(25, 0, 255, 0.09);
+}
+
+input[type="checkbox"] {
+    display:inline-block;
+    width:19px;
+    height: 19px;
+}
+
+.ads {
+    width: 98%;
+    height: 120px;
+    background-color: lightseagreen;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.voting {
+    width: 90%;
+    margin-right: 50px;
+    text-align: right;
+    margin-right: 10px;
+    align-items: right;
+
+}
+
+#products .ads img {
+    width: 80px;
+    margin: 20px;
+}
+
+
+.order i {
+    color: #fff;
+    
+}
+
+
+
+.ads .info {
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+
+.infoshop {
+    margin: 0 auto;
+}
+
+.infoshop p {
+    margin-top: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+
+.infoshop span {
+    font-size: 13px;
+}
+
+.infoshop h3 {
+    margin-bottom: 10px;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.listads {
+    width: 100px;
+    float: right;
+}
+
+.listads span {
+    float: left;
+}
+
+
+.diva {
+    font-size: 50px;
+    float: left;
+    /* margin: 0 auto; */
+}
+
+.listads .divaimg {
+    float: left;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.sort {
+    width: 100%;
+    background-color: red;
+}
+.voting {
+    display: flex;
+}
+
+
+.votebolder {
+    margin-left: 10px;
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid rgba(25, 0, 255, 0.09);
+}
+
+.sanpham {
+    width: 130px;
+    background-color: red;
+    margin-left: 10px;
+    display: inline-block;
+    
+
+}
+
+.menucon {
+    padding-top: 7px;
+}
+
+.sort {
+    height: 60px;
+    width: auto;
+    background-color:gray;
+    display: flex;
+}
+
+.sort .buttonsapxep {
+    display: inline-block;
+    width: 120px;
+    background-color:yellow;
+    font-size: 13px;
+    text-align: center;
+}
+
+.shoplist {
+    margin-top: 40px;
+}
+
+.sapxep {
+    margin-right: 10px;
+}
+
+input[type="khoanggia"] {
+    width: 70px;
+    height: 10px;
+}
+
+.checkbox button {
+    width: 200px;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.pagehello {
+    width: 1200px;
+    height: 20px;
+    text-align: center;
+}
+
+.nextpage {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+}
